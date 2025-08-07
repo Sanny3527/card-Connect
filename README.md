@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # card_connect
 
 A new Flutter project.
@@ -15,3 +16,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+=======
+# card-Connect
+This App is about to create a card connect app
+>>>>>>> 31045fb873c6d17a7b288717c6b41bae39bca5cf
