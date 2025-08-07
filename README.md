@@ -20,3 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 # card-Connect
 This App is about to create a card connect app
 >>>>>>> 31045fb873c6d17a7b288717c6b41bae39bca5cf
+
+![image alt](https://github.com/Sanny3527/card-Connect/blob/0b32fc1eb44c3ed6ef40b414ee80b71db6f9d8cf/Screenshot%202025-08-07%20192605.png)
